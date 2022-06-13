@@ -1,0 +1,21 @@
+#preview {
+  display: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+.canvas-container {
+  margin: 0 auto;
+}
+
+#canvas {
+  border: 2px black solid;
+}
